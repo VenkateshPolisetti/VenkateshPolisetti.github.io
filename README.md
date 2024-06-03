@@ -7,21 +7,24 @@ Welcome to my GitHub profile! I'm a dedicated Data Analyst with a keen interest 
 ### 🚀  About Me 📊 Data Analyst: With 4 months of experience in data analysis, 
 I've honed my skills in collecting, processing, and analyzing large datasets to extract actionable insights.
 
-### 🎨  Data Visualization Expert: I love to create compelling and informative visualizations that tell a story. Tools like Tableau, Power BI, and Python (matplotlib, seaborn) are my go-to for turning complex data into easy-to-understand visuals.
+### 🎨  Data Visualization Expert:
+I love to create compelling and informative visualizations that tell a story. Tools like Tableau, Power BI, and Python (matplotlib, seaborn) are my go-to for turning complex data into easy-to-understand visuals.
 
-### 📈  Statistics and Data Modeling: Proficient in statistical analysis and data modeling, ensuring data accuracy and integrity for reliable results.
+### 📈  Statistics and Data Modeling:
+Proficient in statistical analysis and data modeling, ensuring data accuracy and integrity for reliable results.
 
-###  💡  Continuous Learner: Always excited to learn new techniques and technologies in the data field to enhance my skillset and contribute effectively to projects.
+###  💡  Continuous Learner:
+Always excited to learn new techniques and technologies in the data field to enhance my skillset and contribute effectively to projects.
 
 ### 🔧  Technologies & Tools Programming Languages: Python, SQL
 
-###     Data Visualization: Tableau, Power BI, matplotlib, seaborn
+###  Data Visualization: Tableau, Power BI, matplotlib, seaborn
 
-###     Data Processing: Pandas, NumPy, Excel
+###  Data Processing: Pandas, NumPy, Excel
 
-###     Databases: MySQL, PostgreSQL
+###  Databases: MySQL, PostgreSQL
 
-###     Other Tools: Git, Jupyter Notebook
+###  Other Tools: Git, Jupyter Notebook
 
 ## 📂  Featured Projects
 
