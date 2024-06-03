@@ -1,4 +1,4 @@
-👋  # Hello, I'm Venkatesh Polisetti !
+👋  #Hello, I'm Venkatesh Polisetti !
 
 🔍 ### Data Analyst | Data Visualization Enthusiast | Problem Solver
 
