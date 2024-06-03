@@ -16,15 +16,15 @@ Proficient in statistical analysis and data modeling, ensuring data accuracy and
 ###  💡  Continuous Learner:
 Always excited to learn new techniques and technologies in the data field to enhance my skillset and contribute effectively to projects.
 
-### 🔧  Technologies & Tools Programming Languages: Python, SQL
+### 🔧  Technologies & Tools Programming Languages:  Python, SQL
 
-###  Data Visualization: Tableau, Power BI, matplotlib, seaborn
+###  Data Visualization:  Tableau, Power BI, matplotlib, seaborn
 
-###  Data Processing: Pandas, NumPy, Excel
+###  Data Processing:  Pandas, NumPy, Excel
 
-###  Databases: MySQL, PostgreSQL
+###  Databases:  MySQL, PostgreSQL
 
-###  Other Tools: Git, Jupyter Notebook
+###  Other Tools:  Git, Jupyter Notebook
 
 ## 📂  Featured Projects
 
