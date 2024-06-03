@@ -2,7 +2,7 @@
 
 ### 🔍  Data Analyst | Data Visualization Enthusiast | Problem Solver
 
-Welcome to my GitHub profile! I'm a dedicated Data Analyst with a keen interest in transforming raw data into meaningful insights and beautiful visualizations. My goal is to uncover hidden patterns and trends that drive data-driven decision-making.
+Welcome to my GitHub profile! I'm a dedicated Data Analyst with a keen interest in transforming raw data into meaningful insights and beautiful visualizations. My goal is to uncover hidden patterns and trends that drive data-driven decision-making. 
 
 ### 🚀  About Me 📊 Data Analyst: With 4 months of experience in data analysis, 
 I've honed my skills in collecting, processing, and analyzing large datasets to extract actionable insights.
