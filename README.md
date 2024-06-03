@@ -15,13 +15,13 @@ I've honed my skills in collecting, processing, and analyzing large datasets to 
 
 ### 🔧  Technologies & Tools Programming Languages: Python, SQL
 
-    ### Data Visualization: Tableau, Power BI, matplotlib, seaborn
+###      Data Visualization: Tableau, Power BI, matplotlib, seaborn
 
-    ### Data Processing: Pandas, NumPy, Excel
+###      Data Processing: Pandas, NumPy, Excel
 
-    ### Databases: MySQL, PostgreSQL
+###      Databases: MySQL, PostgreSQL
 
-    ### Other Tools: Git, Jupyter Notebook
+###     Other Tools: Git, Jupyter Notebook
 
 ## 📂  Featured Projects
 
